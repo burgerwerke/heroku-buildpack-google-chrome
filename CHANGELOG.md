@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 2025-01-21
+- Undeprecate for Heroku-18, Heroku-20, Heroku-22.
+
 ## 2024-05-30
 - Deprecates support in Heroku-22 and Heroku-20.
 - Adds explicit error for Heroku-24
